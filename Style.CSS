@@ -1,6 +1,17 @@
-P {
-  Color: blue;
- }
+/***********************************************
+Top bar color 
+***********************************************/
+
+html {
+  background-color:#33E1FF;
+	border-top: 50px solid #33FFAC;
+}
+
+
+
+/***********************************************
+Body styling 
+***********************************************/
 
 body {
 	max-width: 600px;
@@ -8,6 +19,49 @@ body {
 	padding: 20px 20px;
 	font-size: 1.3em;
 	line-height: 1.6em;
+  font-family: 'Pangolin', cursive;
 	color: #777;
 	font-weight: 300;
+}
+
+
+
+/***********************************************
+Image styling 
+***********************************************/
+
+img {
+	border-radius: 20%;
+	max-width: 340px;
+}
+
+
+
+/***********************************************
+Headline styling 
+***********************************************/
+h1 {
+	font-size: 1.5em;
+	line-height: .5em;
+	color: #008080;
+}
+
+h2 {
+	font-size: 1em;
+	line-height: 1em;
+	font-style: oblique;
+	color: #aaa;
+
+}
+
+h3 {
+	font-size: .875em;
+	line-height: 1em;
+	font-weight: normal;
+}
+
+h4 {
+	margin-top: 60px;
+	font-weight: 500;
+  color: #008080;
 }
