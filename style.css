@@ -2,6 +2,12 @@ h3 {
       color: RoyalBlue;
 }
 
+
 p, h5, ul {
       color: Grey;
+}
+
+
+h4 {
+      color: Dark Grey;
 }
