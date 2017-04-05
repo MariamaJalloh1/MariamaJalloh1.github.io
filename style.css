@@ -2,16 +2,14 @@ P {
       color: Blue;
 }
 
+h3{
+   color: Blue;   
+}
+
 
 * {
   font-family: 'Georgia', 'Times', serif;
 }
 
-a {
-  color: SeaGreen;
-  text-decoration: none;
-}
 
-img {
-  border-radius: 100%;
-}
+
