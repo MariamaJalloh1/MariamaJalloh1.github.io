@@ -1,3 +1,5 @@
+/* colors */
+
 h1 {
   color: Black;
 }
@@ -15,9 +17,14 @@ p, h5, ul {
 
 h4, h5 {
       color: dimgray;
+      line-height:1.7em;
 }
 
+/*fonts*/
 
 * {
   font-family: Helvetica;
   )
+  
+
+  
