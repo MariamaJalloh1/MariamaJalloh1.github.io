@@ -4,19 +4,19 @@ h1 {
   color: Black;
 }
 
-
+/*yellow subheading*/
 h3 {
       color: Gold;
 }
 
-
+/*paragraph, date, bullet point*/
 p, h5, ul {
       color: darkgrey;
        font-weight: 100;
   
 }
 
-
+/*company & date*/
 h4, h5 {
       color: dimgray;
       line-height:0.1em;
@@ -28,7 +28,7 @@ h4, h5 {
   font-family: Helvetica;
   )
   
-  h5 {
+   h5 {
     font-style: italic;
   }
   
