@@ -3,7 +3,6 @@ h1 {
 }
 
 
-
 h3 {
       color: Gold;
 }
@@ -17,3 +16,8 @@ p, h5, ul {
 h4, h5 {
       color: dimgray;
 }
+
+
+*{
+  font-family: Helvetica;
+  )
