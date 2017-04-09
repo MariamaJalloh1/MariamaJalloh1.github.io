@@ -1,3 +1,7 @@
+* {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
 /* colors */
 
 h1 {
@@ -40,9 +44,7 @@ h4, h5 {
   font-family: 'Quicksand';
   )
   
-* {
-  border: 1px solid rgba(0, 0, 0, 0.3);
-}
+
  
 
   
