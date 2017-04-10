@@ -5,6 +5,8 @@
   text-transform: uppercase;
   text-align: left;
  color: dimgray;  
+ font-weight: 100; 
+ font-family: 'Quicksand';
 }
 
 
