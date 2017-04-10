@@ -3,6 +3,7 @@
 .actions a {
   display: inline-block;
   text-transform: uppercase;
+   text-align: left;
 }
 
 
